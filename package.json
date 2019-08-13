@@ -10,7 +10,8 @@
   "scripts": {
     "build": "next build src",
     "dev": "next src",
-    "start": "next start src"
+    "start": "next start src",
+    "test": "jest"
   },
   "dependencies": {
     "next": "^9.0.3",
